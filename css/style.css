@@ -1,0 +1,21 @@
+.square-design{
+    background: #fff;
+    border: 1px solid #000;
+    float: left;
+    font-size: 25px;
+    font-weight: bold;
+    height: 35px;
+    text-align: center;
+    width: 35px;
+    text-align: center;
+  }
+
+  .row-margin{
+      padding-bottom: 16px;
+  }
+  .text-color-X{
+      color: red;
+  }
+  .text-color-O{
+      color: blue;
+  }
